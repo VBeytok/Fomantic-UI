@@ -3,7 +3,7 @@
  * https://github.com/fomantic/Fomantic-UI
  * http://fomantic-ui.com/
  *
- * Copyright 2022 Contributors
+ * Copyright 2023 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -11883,7 +11883,7 @@ $.fn.modal = function(parameters) {
         $dimmer,
 
         element         = this,
-        instance        = $module.hasClass('modal') ? $module.data(moduleNamespace) : undefined,
+        instance        = $module.hasClass('crowdin-modal') ? $module.data(moduleNamespace) : undefined,
 
         ignoreRepeatedEvents = false,
 
@@ -11901,7 +11901,7 @@ $.fn.modal = function(parameters) {
 
         initialize: function() {
           module.create.id();
-          if(!$module.hasClass('modal')) {
+          if(!$module.hasClass('crowdin-modal')) {
             module.create.modal();
             if(!$.isFunction(settings.onHidden)) {
               settings.onHidden = function () {
@@ -13110,7 +13110,7 @@ $.fn.modal = function(parameters) {
 $.fn.modal.settings = {
 
   name           : 'Modal',
-  namespace      : 'modal',
+  namespace      : 'crowdin-modal',
 
   useFlex        : 'auto',
   offset         : 0,
@@ -13203,7 +13203,7 @@ $.fn.modal.settings = {
     closeIcon: '> .close',
     approve  : '.actions .positive, .actions .approve, .actions .ok',
     deny     : '.actions .negative, .actions .deny, .actions .cancel',
-    modal    : '.ui.modal',
+    modal    : '.ui.crowdin-modal',
     dimmer   : '> .ui.dimmer',
     bodyFixed: '> .ui.fixed.menu, > .ui.right.toast-container, > .ui.right.sidebar, > .ui.fixed.nag, > .ui.fixed.nag > .close',
     prompt   : '.ui.input > input'
@@ -13225,11 +13225,11 @@ $.fn.modal.settings = {
     front      : 'front',
     close      : 'close icon',
     button     : 'ui button',
-    modal      : 'ui modal',
+    modal      : 'ui crowdin-modal',
     title      : 'header',
     content    : 'content',
     actions    : 'actions',
-    template   : 'ui tiny modal',
+    template   : 'ui tiny crowdin-modal',
     ok         : 'positive',
     cancel     : 'negative',
     prompt     : 'ui fluid input',
@@ -21817,7 +21817,7 @@ $.fn.sidebar.settings = {
 
   selector: {
     fixed   : '.fixed',
-    omitted : 'script, link, style, .ui.modal, .ui.dimmer, .ui.nag, .ui.fixed',
+    omitted : 'script, link, style, .ui.crowdin-modal, .ui.dimmer, .ui.nag, .ui.fixed',
     pusher  : '.pusher',
     sidebar : '.ui.sidebar'
   },

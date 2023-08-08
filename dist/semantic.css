@@ -3,7 +3,7 @@
  * https://github.com/fomantic/Fomantic-UI
  * http://fomantic-ui.com/
  *
- * Copyright 2022 Contributors
+ * Copyright 2023 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -431,6 +431,10 @@ template {
 [hidden] {
   display: none;
 }
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Site
  * http://github.com/fomantic/Fomantic-UI/
@@ -671,6 +675,10 @@ input::selection {
 
 /*******************************
         Global Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Button
@@ -5740,6 +5748,10 @@ input::selection {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Container
  * http://github.com/fomantic/Fomantic-UI/
@@ -6009,6 +6021,10 @@ input::selection {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Divider
@@ -6320,6 +6336,10 @@ input::selection {
     background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAACCAYAAACuTHuKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo1OThBRDY4OUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo1OThBRDY4QUNDMTYxMUU0OUE3NUVGOEJDMzMzMjE2NyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU5OEFENjg3Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU5OEFENjg4Q0MxNjExRTQ5QTc1RUY4QkMzMzMyMTY3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+VU513gAAADVJREFUeNrs0DENACAQBDBIWLGBJQby/mUcJn5sJXQmOQMAAAAAAJqt+2prAAAAAACg2xdgANk6BEVuJgyMAAAAAElFTkSuQmCC');
   }
 }
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic UI - Emoji
  * https://github.com/fomantic/Fomantic-UI/
@@ -25608,6 +25628,10 @@ i.flag.united.nations::before {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Header
  * http://github.com/fomantic/Fomantic-UI/
@@ -26559,6 +26583,10 @@ a.ui.inverted.black.header.header.header:hover {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Icon
@@ -35773,6 +35801,10 @@ i.icon.youtube.play::before {
   content: "\f167";
   font-family: 'brand-icons';
 }
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Image
  * http://github.com/fomantic/Fomantic-UI/
@@ -36123,6 +36155,10 @@ img.ui.bordered.image {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Input
@@ -37818,6 +37854,10 @@ input[type="file"].ui.black.file.input::file-selector-button:hover,
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Label
@@ -40220,6 +40260,10 @@ a.ui.ui.ui.inverted.basic.black.label:hover {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - List
  * http://github.com/fomantic/Fomantic-UI/
@@ -41322,6 +41366,10 @@ ol.ui.suffixed.list li::before,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+    User Variable Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Loader
  * http://github.com/fomantic/Fomantic-UI/
@@ -42273,6 +42321,10 @@ ol.ui.suffixed.list li::before,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Loader
  * http://github.com/fomantic/Fomantic-UI/
@@ -42718,6 +42770,10 @@ ol.ui.suffixed.list li::before,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Reveal
  * http://github.com/fomantic/Fomantic-UI/
@@ -43056,6 +43112,10 @@ ol.ui.suffixed.list li::before,
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Segment
@@ -44152,6 +44212,10 @@ ol.ui.suffixed.list li::before,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Step
  * http://github.com/fomantic/Fomantic-UI/
@@ -44920,6 +44984,10 @@ ol.ui.suffixed.list li::before,
   content: '\e800';
   /* '' */
 }
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Text
  * http://github.com/fomantic/Fomantic-UI/
@@ -45255,6 +45323,10 @@ span.ui.massive.text {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Form
@@ -47340,6 +47412,10 @@ span.ui.massive.text {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Grid
@@ -49712,6 +49788,10 @@ span.ui.massive.text {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*
  * # Fomantic - Menu
@@ -52275,6 +52355,10 @@ Floated Menu / Item
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Message
  * http://github.com/fomantic/Fomantic-UI/
@@ -53076,6 +53160,10 @@ Floated Menu / Item
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+        Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Table
@@ -57013,6 +57101,10 @@ Floated Menu / Item
 .ui.massive.table {
   font-size: 1.71428571rem;
 }
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Ad
  * http://github.com/fomantic/Fomantic-UI/
@@ -57297,6 +57389,10 @@ Floated Menu / Item
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+    User Variable Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Card
@@ -59556,6 +59652,10 @@ a.inverted.ui.card:hover,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+    User Variable Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Comment
  * http://github.com/fomantic/Fomantic-UI/
@@ -59866,6 +59966,10 @@ a.inverted.ui.card:hover,
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+    User Variable Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Feed
@@ -60217,6 +60321,10 @@ a.inverted.ui.card:hover,
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+    User Variable Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Item
@@ -60849,6 +60957,10 @@ a.inverted.ui.card:hover,
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+    User Variable Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Statistic
@@ -61552,6 +61664,10 @@ a.inverted.ui.card:hover,
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+    User Variable Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Accordion
  * http://github.com/fomantic/Fomantic-UI/
@@ -61966,6 +62082,10 @@ a.inverted.ui.card:hover,
 .ui.accordion .accordion .title > .dropdown.icon::before {
   content: '\f0da' ;
 }
+
+/*******************************
+        User Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Calendar
  * http://github.com/fomantic/Fomantic-UI/
@@ -63075,6 +63195,10 @@ a.inverted.ui.card:hover,
 .dash::before  { content: '\e801'; }
 .plus::before { content: '\e802'; }
 */
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Dimmer
  * http://github.com/fomantic/Fomantic-UI/
@@ -63592,6 +63716,10 @@ body.dimmable > .dimmer {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+        User Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Dropdown
@@ -65943,6 +66071,10 @@ select.ui.dropdown {
   content: "\f0da";
 }
 */
+
+/*******************************
+        User Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Video
  * http://github.com/fomantic/Fomantic-UI/
@@ -66104,6 +66236,10 @@ select.ui.dropdown {
 /*******************************
         Video Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Modal
  * http://github.com/fomantic/Fomantic-UI/
@@ -66118,7 +66254,7 @@ select.ui.dropdown {
              Modal
 *******************************/
 
-.ui.modal {
+.ui.crowdin-modal {
   position: absolute;
   display: none;
   z-index: 1001;
@@ -66140,20 +66276,20 @@ select.ui.dropdown {
   will-change: top, left, margin, transform, opacity;
 }
 
-.ui.modal > :first-child:not(.close):not(.dimmer),
-.ui.modal > i.icon:first-child + *,
-.ui.modal > .dimmer:first-child + *:not(.close),
-.ui.modal > .dimmer:first-child + i.icon + * {
+.ui.crowdin-modal > :first-child:not(.close):not(.dimmer),
+.ui.crowdin-modal > i.icon:first-child + *,
+.ui.crowdin-modal > .dimmer:first-child + *:not(.close),
+.ui.crowdin-modal > .dimmer:first-child + i.icon + * {
   border-top-left-radius: 0.28571429rem;
   border-top-right-radius: 0.28571429rem;
 }
 
-.ui.modal > :last-child {
+.ui.crowdin-modal > :last-child {
   border-bottom-left-radius: 0.28571429rem;
   border-bottom-right-radius: 0.28571429rem;
 }
 
-.ui.modal > .ui.dimmer {
+.ui.crowdin-modal > .ui.dimmer {
   border-radius: inherit;
 }
 
@@ -66165,7 +66301,7 @@ select.ui.dropdown {
      Close
 ---------------*/
 
-.ui.modal > .close {
+.ui.crowdin-modal > .close {
   cursor: pointer;
   position: absolute;
   top: -2.5rem;
@@ -66179,8 +66315,8 @@ select.ui.dropdown {
   padding: 0.625rem 0 0 0;
 }
 
-.ui.modal > .close:focus,
-.ui.modal > .close:hover {
+.ui.crowdin-modal > .close:focus,
+.ui.crowdin-modal > .close:hover {
   opacity: 1;
   outline: none;
 }
@@ -66189,7 +66325,7 @@ select.ui.dropdown {
      Header
 ---------------*/
 
-.ui.modal > .header {
+.ui.crowdin-modal > .header {
   display: block;
   font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   background: #FFFFFF;
@@ -66201,7 +66337,7 @@ select.ui.dropdown {
   border-bottom: 1px solid rgba(34, 36, 38, 0.15);
 }
 
-.ui.modal > .header:not(.ui) {
+.ui.crowdin-modal > .header:not(.ui) {
   font-size: 1.42857143rem;
   line-height: 1.28571429em;
   font-weight: bold;
@@ -66211,7 +66347,7 @@ select.ui.dropdown {
      Content
 ---------------*/
 
-.ui.modal > .content {
+.ui.crowdin-modal > .content {
   display: block;
   width: 100%;
   font-size: 1em;
@@ -66220,7 +66356,7 @@ select.ui.dropdown {
   background: #FFFFFF;
 }
 
-.ui.modal > .image.content {
+.ui.crowdin-modal > .image.content {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -66232,7 +66368,7 @@ select.ui.dropdown {
 
 /* Image */
 
-.ui.modal > .content > .image {
+.ui.crowdin-modal > .content > .image {
   display: block;
   -webkit-box-flex: 0;
   -ms-flex: 0 1 auto;
@@ -66243,24 +66379,24 @@ select.ui.dropdown {
   max-width: 100%;
 }
 
-.ui.modal > [class*="top aligned"] {
+.ui.crowdin-modal > [class*="top aligned"] {
   -ms-flex-item-align: start;
   align-self: start;
 }
 
-.ui.modal > [class*="middle aligned"] {
+.ui.crowdin-modal > [class*="middle aligned"] {
   -ms-flex-item-align: center;
   align-self: center;
 }
 
-.ui.modal > [class*="stretched"] {
+.ui.crowdin-modal > [class*="stretched"] {
   -ms-flex-item-align: stretch;
   align-self: stretch;
 }
 
 /* Description */
 
-.ui.modal > .content > .description {
+.ui.crowdin-modal > .content > .description {
   display: block;
   -webkit-box-flex: 1;
   -ms-flex: 1 0 auto;
@@ -66270,8 +66406,8 @@ select.ui.dropdown {
   align-self: start;
 }
 
-.ui.modal > .content > i.icon + .description,
-.ui.modal > .content > .image + .description {
+.ui.crowdin-modal > .content > i.icon + .description,
+.ui.crowdin-modal > .content > .image + .description {
   -webkit-box-flex: 0;
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
@@ -66282,7 +66418,7 @@ select.ui.dropdown {
 
 /*rtl:ignore*/
 
-.ui.modal > .content > .image > i.icon {
+.ui.crowdin-modal > .content > .image > i.icon {
   margin: 0;
   opacity: 1;
   width: auto;
@@ -66294,28 +66430,28 @@ select.ui.dropdown {
      Actions
 ---------------*/
 
-.ui.modal > .actions {
+.ui.crowdin-modal > .actions {
   background: #F9FAFB;
   padding: 1rem 1rem;
   border-top: 1px solid rgba(34, 36, 38, 0.15);
   text-align: right;
 }
 
-.ui.modal .actions > .button:not(.fluid) {
+.ui.crowdin-modal .actions > .button:not(.fluid) {
   margin-left: 0.75em;
 }
 
-.ui.basic.modal > .actions {
+.ui.basic.crowdin-modal > .actions {
   border-top: none;
 }
 
-.ui.modal > .centered,
-.ui.modal > .center.aligned {
+.ui.crowdin-modal > .centered,
+.ui.crowdin-modal > .center.aligned {
   text-align: center;
 }
 
-.ui.modal > .centered.actions > .button:not(.fluid),
-.ui.modal > .center.aligned.actions > .button:not(.fluid) {
+.ui.crowdin-modal > .centered.actions > .button:not(.fluid),
+.ui.crowdin-modal > .center.aligned.actions > .button:not(.fluid) {
   margin-left: 0.5em;
   margin-right: 0.5em;
 }
@@ -66327,48 +66463,48 @@ select.ui.dropdown {
 /* Modal Width */
 
 @media only screen and (max-width: 767.98px) {
-  .ui.modal:not(.fullscreen) {
+  .ui.crowdin-modal:not(.fullscreen) {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.modal:not(.fullscreen) {
+  .ui.crowdin-modal:not(.fullscreen) {
     width: 88%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.modal:not(.fullscreen) {
+  .ui.crowdin-modal:not(.fullscreen) {
     width: 850px;
     margin: 0 0 0 0;
   }
 
-  .ui.modal:not(.fullscreen) > .active.dimmer + .close:not(.inside) {
+  .ui.crowdin-modal:not(.fullscreen) > .active.dimmer + .close:not(.inside) {
     pointer-events: none;
     opacity: 0.1;
   }
 
-  .ui.dimmer > .ui.modal:not(.fullscreen) > .close:not(.inside) {
+  .ui.dimmer > .ui.crowdin-modal:not(.fullscreen) > .close:not(.inside) {
     text-shadow: -1px -1px 2px rgba(0, 0, 0, 0.3), 1px -1px 2px rgba(0, 0, 0, 0.3), -1px 2px 2px rgba(0, 0, 0, 0.3), 1px 2px 2px rgba(0, 0, 0, 0.3);
   }
 
-  .ui.inverted.dimmer > .ui.modal:not(.fullscreen) > .close:not(.inside) {
+  .ui.inverted.dimmer > .ui.crowdin-modal:not(.fullscreen) > .close:not(.inside) {
     text-shadow: -1px -1px 2px rgba(255, 255, 255, 0.3), 1px -1px 2px rgba(255, 255, 255, 0.3), -1px 2px 2px rgba(255, 255, 255, 0.3), 1px 2px 2px rgba(255, 255, 255, 0.3);
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.modal:not(.fullscreen) {
+  .ui.crowdin-modal:not(.fullscreen) {
     width: 900px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.modal:not(.fullscreen) {
+  .ui.crowdin-modal:not(.fullscreen) {
     width: 950px;
     margin: 0 0 0 0;
   }
@@ -66377,11 +66513,11 @@ select.ui.dropdown {
 /* Tablet and Mobile */
 
 @media only screen and (max-width: 991.98px) {
-  .ui.modal > .close + .header {
+  .ui.crowdin-modal > .close + .header {
     padding-right: 2.25rem;
   }
 
-  .ui.modal > .close {
+  .ui.crowdin-modal > .close {
     top: 1.0535rem;
     right: 1rem;
     color: rgba(0, 0, 0, 0.87);
@@ -66391,42 +66527,42 @@ select.ui.dropdown {
 /* Mobile */
 
 @media only screen and (max-width: 767.98px) {
-  .ui.modal > .header {
+  .ui.crowdin-modal > .header {
     padding: 0.75rem 1rem;
   }
 
-  .ui.modal > .close + .header {
+  .ui.crowdin-modal > .close + .header {
     padding-right: 2.25rem;
   }
 
-  .ui.overlay.fullscreen.modal > .content.content.content {
+  .ui.overlay.fullscreen.crowdin-modal > .content.content.content {
     min-height: calc(100vh - 8.1rem);
   }
 
-  .ui.overlay.fullscreen.modal > .scrolling.content.content.content {
+  .ui.overlay.fullscreen.crowdin-modal > .scrolling.content.content.content {
     max-height: calc(100vh - 8.1rem);
   }
 
-  .ui.modal > .content {
+  .ui.crowdin-modal > .content {
     display: block;
     padding: 1rem !important;
   }
 
-  .ui.modal > .close {
+  .ui.crowdin-modal > .close {
     top: 0.5rem !important;
     right: 0.5rem !important;
   }
 
   /*rtl:ignore*/
 
-  .ui.modal .image.content {
+  .ui.crowdin-modal .image.content {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
   }
 
-  .ui.modal > .content > .image {
+  .ui.crowdin-modal > .content > .image {
     display: block;
     max-width: 100%;
     margin: 0 auto !important;
@@ -66434,14 +66570,14 @@ select.ui.dropdown {
     padding: 0 0 1rem !important;
   }
 
-  .ui.modal > .content > .image > i.icon {
+  .ui.crowdin-modal > .content > .image > i.icon {
     font-size: 5rem;
     text-align: center;
   }
 
   /*rtl:ignore*/
 
-  .ui.modal > .content > .description {
+  .ui.crowdin-modal > .content > .description {
     display: block;
     width: 100% !important;
     margin: 0 !important;
@@ -66452,12 +66588,12 @@ select.ui.dropdown {
 
   /* Let Buttons Stack */
 
-  .ui.modal > .actions {
+  .ui.crowdin-modal > .actions {
     padding: 1rem 1rem 0rem !important;
   }
 
-  .ui.modal .actions > .buttons,
-  .ui.modal .actions > .button {
+  .ui.crowdin-modal .actions > .buttons,
+  .ui.crowdin-modal .actions > .button {
     margin-bottom: 1rem;
   }
 }
@@ -66466,7 +66602,7 @@ select.ui.dropdown {
     Coupling
 ---------------*/
 
-.ui.inverted.dimmer > .ui.modal {
+.ui.inverted.dimmer > .ui.crowdin-modal {
   -webkit-box-shadow: 1px 3px 10px 2px rgba(0, 0, 0, 0.2);
   box-shadow: 1px 3px 10px 2px rgba(0, 0, 0, 0.2);
 }
@@ -66475,7 +66611,7 @@ select.ui.dropdown {
              Types
 *******************************/
 
-.ui.basic.modal {
+.ui.basic.crowdin-modal {
   background-color: transparent;
   border: none;
   border-radius: 0;
@@ -66484,51 +66620,51 @@ select.ui.dropdown {
   color: #FFFFFF;
 }
 
-.ui.basic.modal > .header,
-.ui.basic.modal > .content,
-.ui.basic.modal > .actions {
+.ui.basic.crowdin-modal > .header,
+.ui.basic.crowdin-modal > .content,
+.ui.basic.crowdin-modal > .actions {
   background-color: transparent;
 }
 
-.ui.basic.modal > .header {
+.ui.basic.crowdin-modal > .header {
   color: #FFFFFF;
   border-bottom: none;
 }
 
-.ui.basic.modal > .close {
+.ui.basic.crowdin-modal > .close {
   top: 1rem;
   right: 1.5rem;
   color: #FFFFFF;
 }
 
-.ui.inverted.dimmer > .basic.modal {
+.ui.inverted.dimmer > .basic.crowdin-modal {
   color: rgba(0, 0, 0, 0.87);
 }
 
-.ui.inverted.dimmer > .ui.basic.modal > .header {
+.ui.inverted.dimmer > .ui.basic.crowdin-modal > .header {
   color: rgba(0, 0, 0, 0.85);
 }
 
 /* Resort to margin positioning if legacy */
 
-.ui.legacy.legacy.modal,
-.ui.legacy.legacy.page.dimmer > .ui.modal {
+.ui.legacy.legacy.crowdin-modal,
+.ui.legacy.legacy.page.dimmer > .ui.crowdin-modal {
   left: 50% !important;
 }
 
-.ui.legacy.legacy.modal:not(.aligned),
-.ui.legacy.legacy.page.dimmer > .ui.modal:not(.aligned) {
+.ui.legacy.legacy.crowdin-modal:not(.aligned),
+.ui.legacy.legacy.page.dimmer > .ui.crowdin-modal:not(.aligned) {
   top: 50%;
 }
 
-.ui.legacy.legacy.page.dimmer > .ui.scrolling.modal:not(.aligned),
-.ui.page.dimmer > .ui.scrolling.legacy.legacy.modal:not(.aligned),
-.ui.top.aligned.legacy.legacy.page.dimmer > .ui.modal:not(.aligned),
-.ui.top.aligned.dimmer > .ui.legacy.legacy.modal:not(.aligned) {
+.ui.legacy.legacy.page.dimmer > .ui.scrolling.crowdin-modal:not(.aligned),
+.ui.page.dimmer > .ui.scrolling.legacy.legacy.crowdin-modal:not(.aligned),
+.ui.top.aligned.legacy.legacy.page.dimmer > .ui.crowdin-modal:not(.aligned),
+.ui.top.aligned.dimmer > .ui.legacy.legacy.crowdin-modal:not(.aligned) {
   top: auto;
 }
 
-.ui.legacy.overlay.fullscreen.modal {
+.ui.legacy.overlay.fullscreen.crowdin-modal {
   margin-top: -2rem !important;
 }
 
@@ -66536,13 +66672,13 @@ select.ui.dropdown {
              States
 *******************************/
 
-.ui.loading.modal {
+.ui.loading.crowdin-modal {
   display: block;
   visibility: hidden;
   z-index: -1;
 }
 
-.ui.active.modal {
+.ui.active.crowdin-modal {
   display: block;
 }
 
@@ -66554,20 +66690,20 @@ select.ui.dropdown {
      Aligned
   ---------------*/
 
-.modals.dimmer .ui.top.aligned.modal {
+.modals.dimmer .ui.top.aligned.crowdin-modal {
   top: 5vh;
 }
 
-.modals.dimmer .ui.bottom.aligned.modal {
+.modals.dimmer .ui.bottom.aligned.crowdin-modal {
   bottom: 5vh;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .modals.dimmer .ui.top.aligned.modal {
+  .modals.dimmer .ui.top.aligned.crowdin-modal {
     top: 1rem;
   }
 
-  .modals.dimmer .ui.bottom.aligned.modal {
+  .modals.dimmer .ui.bottom.aligned.crowdin-modal {
     bottom: 1rem;
   }
 }
@@ -66594,13 +66730,13 @@ select.ui.dropdown {
   -webkit-overflow-scrolling: touch;
 }
 
-.modals.dimmer .ui.scrolling.modal:not(.fullscreen) {
+.modals.dimmer .ui.scrolling.crowdin-modal:not(.fullscreen) {
   margin: 2rem auto;
 }
 
 /* Fix for Firefox, Edge, IE11 */
 
-.modals.dimmer .ui.scrolling.modal:not([class*="overlay fullscreen"])::after {
+.modals.dimmer .ui.scrolling.crowdin-modal:not([class*="overlay fullscreen"])::after {
   content: '\00A0';
   position: absolute;
   height: 2rem;
@@ -66617,23 +66753,23 @@ select.ui.dropdown {
   overflow: hidden;
 }
 
-.scrolling.undetached.dimmable .ui.scrolling.modal:not(.fullscreen) {
+.scrolling.undetached.dimmable .ui.scrolling.crowdin-modal:not(.fullscreen) {
   position: absolute;
   left: 50%;
 }
 
 /* Scrolling Content */
 
-.ui.modal > .scrolling.content {
+.ui.crowdin-modal > .scrolling.content {
   max-height: calc(80vh - 10rem);
   overflow: auto;
 }
 
-.ui.overlay.fullscreen.modal > .content {
+.ui.overlay.fullscreen.crowdin-modal > .content {
   min-height: calc(100vh - 9.1rem);
 }
 
-.ui.overlay.fullscreen.modal > .scrolling.content {
+.ui.overlay.fullscreen.crowdin-modal > .scrolling.content {
   max-height: calc(100vh - 9.1rem);
 }
 
@@ -66641,13 +66777,13 @@ select.ui.dropdown {
      Full Screen
   ---------------*/
 
-.ui.fullscreen.modal {
+.ui.fullscreen.crowdin-modal {
   width: 95%;
   left: 2.5%;
   margin: 1em auto;
 }
 
-.ui.overlay.fullscreen.modal {
+.ui.overlay.fullscreen.crowdin-modal {
   width: 100%;
   left: 0;
   margin: 0 auto;
@@ -66655,19 +66791,19 @@ select.ui.dropdown {
   border-radius: 0;
 }
 
-.ui.modal > .close.inside + .header:not(.centered):not(.center):not(.icon),
-.ui.fullscreen.modal > .close + .header:not(.centered):not(.center):not(.icon) {
+.ui.crowdin-modal > .close.inside + .header:not(.centered):not(.center):not(.icon),
+.ui.fullscreen.crowdin-modal > .close + .header:not(.centered):not(.center):not(.icon) {
   padding-right: 2.25rem;
 }
 
-.ui.modal > .close.inside,
-.ui.fullscreen.modal > .close {
+.ui.crowdin-modal > .close.inside,
+.ui.fullscreen.crowdin-modal > .close {
   top: 1.0535rem;
   right: 1rem;
   color: rgba(0, 0, 0, 0.87);
 }
 
-.ui.basic.fullscreen.modal > .close {
+.ui.basic.fullscreen.crowdin-modal > .close {
   color: #FFFFFF;
 }
 
@@ -66675,278 +66811,278 @@ select.ui.dropdown {
       Size
 ---------------*/
 
-.ui.modal {
+.ui.crowdin-modal {
   font-size: 1rem;
 }
 
-.ui.mini.modal > .header:not(.ui) {
+.ui.mini.crowdin-modal > .header:not(.ui) {
   font-size: 1.3em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.mini.modal {
+  .ui.mini.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.mini.modal {
+  .ui.mini.crowdin-modal {
     width: 35.2%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.mini.modal {
+  .ui.mini.crowdin-modal {
     width: 340px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.mini.modal {
+  .ui.mini.crowdin-modal {
     width: 360px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.mini.modal {
+  .ui.mini.crowdin-modal {
     width: 380px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.tiny.modal > .header:not(.ui) {
+.ui.tiny.crowdin-modal > .header:not(.ui) {
   font-size: 1.3em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.tiny.modal {
+  .ui.tiny.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.tiny.modal {
+  .ui.tiny.crowdin-modal {
     width: 52.8%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.tiny.modal {
+  .ui.tiny.crowdin-modal {
     width: 510px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.tiny.modal {
+  .ui.tiny.crowdin-modal {
     width: 540px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.tiny.modal {
+  .ui.tiny.crowdin-modal {
     width: 570px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.small.modal > .header:not(.ui) {
+.ui.small.crowdin-modal > .header:not(.ui) {
   font-size: 1.3em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.small.modal {
+  .ui.small.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.small.modal {
+  .ui.small.crowdin-modal {
     width: 70.4%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.small.modal {
+  .ui.small.crowdin-modal {
     width: 680px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.small.modal {
+  .ui.small.crowdin-modal {
     width: 720px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.small.modal {
+  .ui.small.crowdin-modal {
     width: 760px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.large.modal > .header:not(.ui) {
+.ui.large.crowdin-modal > .header:not(.ui) {
   font-size: 1.6em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.large.modal {
+  .ui.large.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.large.modal {
+  .ui.large.crowdin-modal {
     width: 88%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.large.modal {
+  .ui.large.crowdin-modal {
     width: 1020px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.large.modal {
+  .ui.large.crowdin-modal {
     width: 1080px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.large.modal {
+  .ui.large.crowdin-modal {
     width: 1140px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.big.modal > .header:not(.ui) {
+.ui.big.crowdin-modal > .header:not(.ui) {
   font-size: 1.6em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.big.modal {
+  .ui.big.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.big.modal {
+  .ui.big.crowdin-modal {
     width: 88%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.big.modal {
+  .ui.big.crowdin-modal {
     width: 1190px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.big.modal {
+  .ui.big.crowdin-modal {
     width: 1260px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.big.modal {
+  .ui.big.crowdin-modal {
     width: 1330px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.huge.modal > .header:not(.ui) {
+.ui.huge.crowdin-modal > .header:not(.ui) {
   font-size: 1.6em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.huge.modal {
+  .ui.huge.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.huge.modal {
+  .ui.huge.crowdin-modal {
     width: 88%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.huge.modal {
+  .ui.huge.crowdin-modal {
     width: 1360px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.huge.modal {
+  .ui.huge.crowdin-modal {
     width: 1440px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.huge.modal {
+  .ui.huge.crowdin-modal {
     width: 1520px;
     margin: 0 0 0 0;
   }
 }
 
-.ui.massive.modal > .header:not(.ui) {
+.ui.massive.crowdin-modal > .header:not(.ui) {
   font-size: 1.8em;
 }
 
 @media only screen and (max-width: 767.98px) {
-  .ui.massive.modal {
+  .ui.massive.crowdin-modal {
     width: 95%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  .ui.massive.modal {
+  .ui.massive.crowdin-modal {
     width: 88%;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 992px) {
-  .ui.massive.modal {
+  .ui.massive.crowdin-modal {
     width: 1530px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1200px) {
-  .ui.massive.modal {
+  .ui.massive.crowdin-modal {
     width: 1620px;
     margin: 0 0 0 0;
   }
 }
 
 @media only screen and (min-width: 1920px) {
-  .ui.massive.modal {
+  .ui.massive.crowdin-modal {
     width: 1710px;
     margin: 0 0 0 0;
   }
@@ -66956,39 +67092,43 @@ select.ui.dropdown {
             Inverted
   *******************************/
 
-.ui.inverted.modal {
+.ui.inverted.crowdin-modal {
   background: rgba(0, 0, 0, 0.9);
 }
 
-.ui.inverted.modal > .header,
-.ui.inverted.modal > .content {
+.ui.inverted.crowdin-modal > .header,
+.ui.inverted.crowdin-modal > .content {
   background: rgba(0, 0, 0, 0.9);
   color: #FFFFFF;
 }
 
-.ui.inverted.modal > .actions {
+.ui.inverted.crowdin-modal > .actions {
   background: #191A1B;
   border-top: 1px solid rgba(34, 36, 38, 0.85);
   color: #FFFFFF;
 }
 
-.ui.inverted.dimmer > .modal > .close {
+.ui.inverted.dimmer > .crowdin-modal > .close {
   color: rgba(0, 0, 0, 0.85);
 }
 
 @media only screen and (max-width: 991.98px) {
-  .ui.dimmer .inverted.modal > .close {
+  .ui.dimmer .inverted.crowdin-modal > .close {
     color: #FFFFFF;
   }
 }
 
-.ui.inverted.modal > .close.inside,
-.ui.inverted.fullscreen.modal > .close {
+.ui.inverted.crowdin-modal > .close.inside,
+.ui.inverted.fullscreen.crowdin-modal > .close {
   color: #FFFFFF;
 }
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Nag
@@ -67324,6 +67464,10 @@ a.ui.nag {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+        User Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Popup
@@ -68230,6 +68374,10 @@ a.ui.nag {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+        User Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Progress Bar
@@ -69201,6 +69349,10 @@ a.ui.nag {
 
 /*******************************
             Progress
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*******************************
              Theme
@@ -70646,6 +70798,10 @@ a.ui.nag {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Search
  * http://github.com/fomantic/Fomantic-UI/
@@ -71224,6 +71380,10 @@ a.ui.nag {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Shape
  * http://github.com/fomantic/Fomantic-UI/
@@ -71380,6 +71540,10 @@ a.ui.nag {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+        User Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Sidebar
@@ -72064,6 +72228,10 @@ body.pushable > .pusher {
 /*******************************
          Theme Overrides
 *******************************/
+
+/*******************************
+         Site Overrides
+*******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Sticky
  * http://github.com/fomantic/Fomantic-UI/
@@ -72132,6 +72300,10 @@ body.pushable > .pusher {
 
 /*******************************
          Theme Overrides
+*******************************/
+
+/*******************************
+         Site Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Tab
@@ -72212,6 +72384,10 @@ body.pushable > .pusher {
 
 /*******************************
          Tab Overrides
+*******************************/
+
+/*******************************
+        User Overrides
 *******************************/
 /*!
  * # Fomantic-UI 2.8.8 - Toast
@@ -75558,3 +75734,7 @@ body.pushable > .pusher {
     background-color: #FCFCFD;
   }
 }
+
+/*******************************
+         Site Overrides
+*******************************/
