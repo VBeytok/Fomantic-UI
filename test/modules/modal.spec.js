@@ -3,8 +3,8 @@ describe("UI Modal", function() {
   $.fn.dimmer.settings.debug = false;
 
   moduleTests({
-    module  : 'modal',
-    element : '.ui.modal'
+    module  : 'crowdin-modal',
+    element : '.ui.crowdin-modal'
   });
 
 });
